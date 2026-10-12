@@ -1,0 +1,6 @@
+Plaintext
+# Ignora o ambiente virtual e o banco de dados local
+.venv/
+escola.db
+__pycache__/
+.idea/
